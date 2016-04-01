@@ -18,15 +18,15 @@
     <url>https://github.com/eurekaclinical/cas-built-in-authentication-handler.git</url>
     
     <scm>
-        <connection>scm:git:https://github.com/eurekaclinical/cas-built-in-authentication-handler.git</connection>
-        <developerConnection>scm:git:https://github.com/eurekaclinical/cas-built-in-authentication-handler.git</developerConnection>
-        <url>https://github.com/eurekaclinical/cas-built-in-authentication-handler.git</url>
+        <connection>scm:git:https://github.com/eurekaclinical/cas-authentication-handlers.git</connection>
+        <developerConnection>scm:git:https://github.com/eurekaclinical/cas-authentication-handlers.git</developerConnection>
+        <url>https://github.com/eurekaclinical/cas-authentication-handlers.git</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/eurekaclinical/cas-built-in-authentication-handler/issues</url>
+        <url>https://github.com/eurekaclinical/cas-authentication-handlers/issues</url>
     </issueManagement>
 
     <licenses>
